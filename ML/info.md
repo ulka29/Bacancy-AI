@@ -42,6 +42,7 @@ This repository contains **classification, regression, and clustering projects**
 * XGBoost
 
 📘 GitHub Notebook: [https://github.com/ulka29/Bacancy-AI/blob/main/ML/regression.ipynb](https://github.com/ulka29/Bacancy-AI/blob/main/ML/regression.ipynb) 
+
 📙 Kaggle Notebook: [https://www.kaggle.com/code/ulkapatel/regression](https://www.kaggle.com/code/ulkapatel/regression) 
 
 ---
@@ -60,6 +61,7 @@ This repository contains **classification, regression, and clustering projects**
 * Clustering with PCA (2 & 3 components)
 
 📘 GitHub Notebook: [https://github.com/ulka29/Bacancy-AI/blob/main/ML/unsupervised.ipynb](https://github.com/ulka29/Bacancy-AI/blob/main/ML/unsupervised.ipynb) 
+
 📙 Kaggle Notebook: [https://www.kaggle.com/code/ulkapatel/unsupervised](https://www.kaggle.com/code/ulkapatel/unsupervised) 
 
 ---
