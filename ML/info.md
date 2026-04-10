@@ -1,7 +1,3 @@
-Here’s a **simple, clean README** focused only on easy navigation 👇
-
----
-
 # Machine Learning Projects
 
 This repository contains **classification, regression, and clustering projects** .
@@ -23,10 +19,11 @@ This repository contains **classification, regression, and clustering projects**
 * SVM
 * Decision Tree
 * Random Forest
+[]()
 
-📘 GitHub Notebook: *(add link)*
+📘 GitHub Notebook: [https://github.com/ulka29/Bacancy-AI/blob/main/ML/classification.ipynb](https://github.com/ulka29/Bacancy-AI/blob/main/ML/classification.ipynb) 
 
-📙 Kaggle Notebook: *(add link)*
+📙 Kaggle Notebook: [https://www.kaggle.com/code/ulkapatel/classification](https://www.kaggle.com/code/ulkapatel/classification) 
 
 ---
 
@@ -44,8 +41,8 @@ This repository contains **classification, regression, and clustering projects**
 * KNN, SVM
 * XGBoost
 
-📘 GitHub Notebook: *(add link)*
-📙 Kaggle Notebook: *(add link)*
+📘 GitHub Notebook: [https://github.com/ulka29/Bacancy-AI/blob/main/ML/regression.ipynb](https://github.com/ulka29/Bacancy-AI/blob/main/ML/regression.ipynb) 
+📙 Kaggle Notebook: [https://www.kaggle.com/code/ulkapatel/regression](https://www.kaggle.com/code/ulkapatel/regression) 
 
 ---
 
@@ -62,8 +59,8 @@ This repository contains **classification, regression, and clustering projects**
 * PCA
 * Clustering with PCA (2 & 3 components)
 
-📘 GitHub Notebook: *(add link)*
-📙 Kaggle Notebook: *(add link)*
+📘 GitHub Notebook: [https://github.com/ulka29/Bacancy-AI/blob/main/ML/unsupervised.ipynb](https://github.com/ulka29/Bacancy-AI/blob/main/ML/unsupervised.ipynb) 
+📙 Kaggle Notebook: [https://www.kaggle.com/code/ulkapatel/unsupervised](https://www.kaggle.com/code/ulkapatel/unsupervised) 
 
 ---
 
